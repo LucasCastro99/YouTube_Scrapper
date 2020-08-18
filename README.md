@@ -1,7 +1,7 @@
 <div style="text-align:center">
-  # YouTube Scrapper
+  <h1>YouTube Scrapper</h1>
 
-  Script simples, feito em Python, que faz a captura de alguns dados de uma determinada PlayList ou Canal do YouTube.
+  <p>Script simples, feito em Python, que faz a captura de alguns dados de uma determinada PlayList ou Canal do YouTube.</p>
 </div>
 
 ## COMEÇANDO
